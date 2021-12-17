@@ -1,5 +1,5 @@
 ### Olá! eu sou Edson Caldas 👋
-Sou um desenvolvedor FrontEnd apaixonado e autodidata
+Sou um desenvolvedor Front-End apaixonado e autodidata
 
 
 
