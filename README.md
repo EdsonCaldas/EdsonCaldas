@@ -1,11 +1,8 @@
-### Olá! eu sou Edson Caldas 👋
-Sou um desenvolvedor Front-End apaixonado e autodidata
+### Olá, eu sou o Edson Caldas 👋
 
+Desenvolvedor especializado em **Python**, **Automação de Dados** e **Web Scraping**. 
 
-
-- 🔭 Atualmente estou trabalhando em projetos pessoais 
-- 🌱 Atualmente estou aprendendo front-end
-- 💬 Pergunte-me sobre qualquer coisa [here](https://github.com/EdsonCaldas/EdsonCaldas/issues)...
+Possuo sólida formação analítica e foco em transformar tarefas manuais repetitivas e dados brutos da web em planilhas e relatórios estruturados no Excel/CSV para tomada de decisão.- 💬 Pergunte-me sobre qualquer coisa [here](https://github.com/EdsonCaldas/EdsonCaldas/issues)...
 
 
 
@@ -18,11 +15,10 @@ Sou um desenvolvedor Front-End apaixonado e autodidata
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Ed-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ed-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Ed-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Ed-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ed-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ed-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Ed-Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
+  <img align="center" alt="Ed-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Ed-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="right" alt="Ed-code" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif">
 </div>
   <br>
