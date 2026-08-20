@@ -2,9 +2,11 @@
 
 Desenvolvedor especializado em **Python**, **Automação de Dados** e **Web Scraping**. 
 
-Possuo sólida formação analítica e foco em transformar tarefas manuais repetitivas e dados brutos da web em planilhas e relatórios estruturados no Excel/CSV para tomada de decisão.- 💬 Pergunte-me sobre qualquer coisa [here](https://github.com/EdsonCaldas/EdsonCaldas/issues)...
+Possuo sólida formação analítica e foco em transformar tarefas manuais repetitivas e dados brutos da web em planilhas e relatórios estruturados no Excel/CSV para tomada de decisão.
 
+- 💬 Pergunte-me sobre qualquer coisa [here](https://github.com/EdsonCaldas/EdsonCaldas/issues)...
 
+---
 
 <div align="center">
   <a href="https://github.com/EdsonCaldas">
