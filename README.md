@@ -1,10 +1,45 @@
-### Olá, eu sou o Edson Caldas 👋
+# Edson Caldas dos Santos Filho 👋
+**Gestor Operacional & Produtor | Bacharel em Direito | Desenvolvedor Python & Automação**
 
-Desenvolvedor especializado em **Python**, **Automação de Dados** e **Web Scraping**. 
+Profissional com perfil híbrido focado em unir **Direito, Gestão Operacional e Tecnologia**. Especializado na automação de processos repetitivos, extração/tratamento de dados da web (Web Scraping) e transformação de dados brutos em relatórios estruturados para tomada de decisão estratégica.
 
-Possuo sólida formação analítica e foco em transformar tarefas manuais repetitivas e dados brutos da web em planilhas e relatórios estruturados no Excel/CSV para tomada de decisão.
+---
 
-- 💬 Pergunte-me sobre qualquer coisa [here](https://github.com/EdsonCaldas/EdsonCaldas/issues)...
+### 🛠️ Tecnologias & Domínios Profissionais
+
+**Linguagens & Core:**
+- Python (Avançado/Certificado PCEPT™) | Lógica de Programação | Estrutura de Dados | Algoritmos
+
+**Dados & Banco de Dados:**
+- Pandas | NumPy | Web Scraping (BeautifulSoup / Selenium) | MySQL | SQL Server | Excel / CSV Automation
+
+**Infraestrutura & Redes:**
+- Administração de Redes | Asterisk (VoIP) | Git / GitHub | VS Code
+
+---
+
+### 🚀 Tecnologias que Estou Aprendendo / Aprofundando
+
+- **LegalTech & Automação Jurídica:** Criação de scripts em Python para análise e geração automática de minutas/contratos.
+- **Engenharia de Dados & ETL:** Pipelines de dados mais robustos para integração com bancos de dados relacionais.
+- **Dashboards Operacionais:** Visualização de KPIs e métricas de desempenho em Streamlit e Power BI.
+- **Inteligência Artificial Aplicada:** Uso de APIs de LLMs para triagem automatizada e resumo de documentos jurídicos/operacionais.
+
+---
+
+### 📜 Certificações em Destaque
+
+- **PCEPT™ – Certified Entry-Level Python Programmer** | *Python Institute®*
+- **Formação Python** | *Alura*
+- **Formação Administrador de Redes** | *Alura*
+- **SQL Server & MySQL (Primeiras Consultas e Tabelas)** | *DIO*
+- **Estrutura de Dados e Algoritmos** | *DIO*
+
+---
+
+📫 **Como me encontrar:** [LinkedIn](https://www.linkedin.com/in/devedsoncaldas/)
+
+💬 Pergunte-me sobre qualquer coisa [here](https://github.com/EdsonCaldas/EdsonCaldas/issues)...
 
 ---
 
